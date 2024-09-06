@@ -1,0 +1,50 @@
+{
+  "window.menuBarVisibility":"compact",
+  "window.commandCenter": false,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontLigatures": true, 
+  "files.autoSave": "afterDelay",
+  "explorer.confirmDragAndDrop": false,
+  "editor.minimap.enabled": false,
+  "workbench.colorTheme": "LaserWave Italic",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.linkedEditing": true,
+  "editor.wordWrap": "on",
+  "explorer.confirmDelete": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.parameterHints.enabled": false,
+  "editor.stickyScroll.enabled": false,
+  "explorer.confirmPasteNative": false,
+  "liveServer.settings.donotVerifyTags": true,
+  "editor.lineHeight":1.8,
+  "editor.rulers": [80, 120],
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.renderLineHighlight": "line",
+  "workbench.editor.labelFormat": "short",
+  "explorer.compactFolders": false,
+  "editor.semanticHighlighting.enabled": false,
+  "breadcrumbs.enabled": false,
+  "workbench.activityBar.location": "hidden",
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "workbench.statusBar.visible": false,
+  "workbench.layoutControl.enabled": false,
+  "window.titleBarStyle": "native",
+  "apc.electron": {
+      "titleBarStyle": "hiddenInset"
+  },
+  "apc.listRow": {
+    "height": 24
+  },
+  "apc.header": {
+    "height": 36
+  },
+  "apc.stylesheet": {
+      ".title-label > h2": "display: none",
+      ".editor-actions": "display: none",
+      ".pane-body": "padding: 8px",
+      ".pane-header": "padding: 0 8px",
+  },
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+}
